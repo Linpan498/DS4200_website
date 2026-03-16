@@ -1,0 +1,60 @@
+/* Custom font */
+body {
+    font-family: Georgia, serif;
+    font-size: 16px;
+}
+
+/* Color scheme */
+h1 {
+    text-align: center;
+    color: white;
+    background-color: #cc0000;
+    padding: 15px;
+}
+
+h3 {
+    color: #cc0000;
+}
+
+/* Margins and padding */
+p {
+    width: 800px;
+    margin: 10px auto;
+    line-height: 1.6;
+}
+
+img {
+    display: block;
+    margin: 15px auto;
+}
+
+ul {
+    width: 800px;
+    margin: 10px auto;
+    padding: 15px 15px 15px 40px;
+    background-color: #f5f5f5;
+    border-left: 4px solid #cc0000;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+a {
+    color: #cc0000;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 8px 20px;
+    background-color: #cc0000;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+button:hover {
+    background-color: #990000;
+}
